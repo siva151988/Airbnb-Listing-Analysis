@@ -1,7 +1,12 @@
 # Airbnb-Listing-Analysis
 #### DOMAIN : Travel & Hospitality
-#### OBJECTIVE:
-This project explores Airbnb listings data for Paris to uncover business insights and patterns around pricing, availability, and the effect of policy regulations on hosting activity.
+## Project Overview
+
+The project explores Airbnb data from Paris to:
+- Understand listing prices across neighborhoods
+- Investigate the impact of regulatory changes in 2015
+- Analyze host trends over time
+- Examine how accommodation size affects pricing
 
 #### DATA OVERVIEW:
 For this analysis, we utilized the Comprehensive dataset of - <a href="https://github.com/siva151988/Airbnb-Listing-Analysis/blob/main/Listings.zip">Listings.csv</a>
@@ -40,6 +45,28 @@ For this analysis, we utilized the Comprehensive dataset of - <a href="https://g
 
 - **Room Type Trends**:  
   - Entire homes dominate the market, followed by private rooms.
-  - 
+   
 - **Decline in New Hosts After 2015**  
   A significant drop in the number of new hosts was observed starting in 2015. This suggests that regulatory measures (such as zoning laws, host registration, or tax enforcement) may have discouraged new entries into the short-term rental market.
+
+## 🔍 Key Highlights
+
+### 🟢 1. **Impact of Regulations**
+- In **2015**, Paris implemented stricter short-term rental laws.
+- **Result**: 
+  - **Fewer new hosts** joining after 2015.
+  - **Sharp increase in average prices** post-2015.
+
+### 🟢 2. **Price by Accommodation Capacity**
+- Listings that accommodate **more guests** tend to charge **higher prices**.
+- Clear linear correlation between accommodation size and price.
+
+### 🟢 3. **Price by Neighborhood**
+- Premium neighborhoods like **Elysee, Bourse, Louvre** have **higher average prices**.
+- Budget areas include **Menilmontant, Gobelins**, and **Reuilly**.
+  ![screenshot1](https://github.com/user-attachments/assets/38a9887f-2d2d-452e-91af-8105df430370)
+  ![screenshot2](https://github.com/user-attachments/assets/294ec6ed-0082-4e85-8c3d-26f0755998a6)
+  ![screenshot3](https://github.com/user-attachments/assets/91f20d66-0466-480d-8b84-cc6c951213c0)
+
+
+
